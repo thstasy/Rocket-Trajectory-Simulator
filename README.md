@@ -111,5 +111,3 @@ Future Improvements
 	•	Enhanced Real-Time Visualization: Smooth animations with better interactivity.
 	•	Deployment: Host the API on a cloud service like Render or PythonAnywhere.
 	•	Unit Tests: Add tests to verify physics calculations and API functionality.
-
-Let me know if you need help with pushing to GitHub or additional changes! 🚀
