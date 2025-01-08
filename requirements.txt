@@ -1,0 +1,5 @@
+flask==2.3.3         # Web framework for the API
+numpy==1.25.0        # Numerical computations for physics calculations
+matplotlib==3.8.0    # Static trajectory plotting
+plotly==5.15.0       # Real-time visualization
+kaleido==0.2.1       # Required for saving Plotly images
